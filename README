@@ -1,0 +1,6 @@
+A really simple implementation of a Telegram bot tied to the api.ai service, specific for Google Cloud (App Engine).
+Create your app.yaml and add these env variables:
+env_variables:
+  TELEGRAM_BOT_TOKEN: '<your-bot-token>'
+  APIAI_TOKEN: '<your-api.ai-agent-token>'
+
